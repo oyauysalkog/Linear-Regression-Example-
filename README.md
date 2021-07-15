@@ -1,4 +1,4 @@
-# Linear-Regression-Example-
+# Linear Regression Application
 Various Linear Regression algorithms in Python
 
 You can load the TRAIN and TEST DATA :  
